@@ -1,0 +1,29 @@
+{
+  "name": "infra",
+  "version": "1.0.0",
+  "description": "Simple, middleware-like infrastructure to your application startup.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgutz/infrastructure"
+  },
+  "keywords": [
+    "infrastructure",
+    "modular"
+  ],
+  "author": "Mario L Gutierrez <mario@mgutz.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgutz/infrastructure/issues"
+  },
+  "homepage": "https://github.com/mgutz/infrastructure",
+  "devDependencies": {
+    "express": "^4.9.8"
+  }
+}
