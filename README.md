@@ -66,6 +66,6 @@ Use the initializers and start the app
 
 ## Tips
 
-1. Use your own logger
+1.  Use your own logger
 
-    vr infra = require("infrastructure")(log.info.bind(log))
+        var infra = require("infrastructure")(log.info.bind(log))
