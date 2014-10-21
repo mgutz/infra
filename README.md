@@ -1,11 +1,11 @@
-# infrastructure
+# infra
 
 Infrastructure provides simple, middleware-like infrastructure for your
 application startup.
 
 ## Installation
 
-    npm install infrastructure --save
+    npm install infra --save
 
 ## Usage
 
